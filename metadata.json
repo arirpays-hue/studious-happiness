@@ -1,0 +1,5 @@
+{
+  "name": "AI Subtitle Generator",
+  "description": "A powerful, privacy-focused AI subtitle generator and translator that runs entirely in your browser using local machine learning.",
+  "requestFramePermissions": []
+}
